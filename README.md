@@ -86,7 +86,4 @@ Morley, D.W. and Gulliver, J. (2018). A land use regression variable generation,
 ## Author
 
 Shree Vidya Gurudath
-
-Master of Business Informatics candidate, Metropolia University of Applied Sciences, Helsinki
-
 https://linkedin.com/in/shreevidya-gurudath-6437b9200
