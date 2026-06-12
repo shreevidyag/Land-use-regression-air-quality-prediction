@@ -5,6 +5,9 @@ This project applies Land Use Regression modelling to predict annual mean NO2 an
 The project connects my earlier research in LSTM-based spatial-temporal pollution modelling at RIT Bangalore to a European open data context. It forms part of a spatial data portfolio alongside the spatio-temporal-maps and flood-finland repositories.
 
 ---
+## Live Demo
+https://land-use-regression-air-quality-prediction-hpcre6dvkxac8qkjxpm.streamlit.app/
+
 
 ## Setup and running
 
